@@ -17,13 +17,12 @@
 **Some techno-personal stuff about me:**
 
 - 🔭 I’m currently working on my private android project.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on a Hyperledger Fabric project.
+- 🌱 I’m currently learning new android tools and libraries.
 - 🤔 I’m looking for help with data structures and algorithms.
 - 💬 Ask me about android, astronomy and tv series.
 - 📫 How to reach me: Mail me at shubham.pathak2000@gmail.com
-- ⚡ Fun fact: I once redeemed Google Play credits by deploying my own paid app and buying it myself.
-- 📝[Resume](https://drive.google.com/file/d/1kK3ja0UxAJ0dgFn1H3j8gJVSyJZis2SM/view)
+- ⚡ Fun fact: I once redeemed Google Play credits by deploying my own paid app and buying it myself 😂.
+- 📝[My Resume](https://drive.google.com/file/d/1AVbD284XPc1xjTt5Ub1qjsFETfgINqV3/view?usp=sharing)
 
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=tronku&show_icons=true&hide_border=true&hide=["stars"])
