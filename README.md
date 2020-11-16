@@ -1,8 +1,9 @@
 ### Hey 👋, I am Shubham Pathak
+Android app developer with two-years experience in managing life and activity's lifecycle ;)
 
 <br/>
 
-|<a href="https://twitter.com/devtronku">
+|<a href="https://twitter.com/itstronku">
   <img align="left" alt="Shubham's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>  <a href="https://www.linkedin.com/in/tronku">
   <img align="left" alt="Shubham's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
